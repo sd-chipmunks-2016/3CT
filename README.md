@@ -1,17 +1,20 @@
 # 3CT
 Client Project
 
-###Project Name
+##Project Name
 CCCT
-###Names and github handle for people on the team
+##Names and github handle for people on the team
 
 - [Christopher Mendoza](https://github.com/wushuchris)
 - [Conor Burke](https://github.com/conorburke)
 - [Chelsey Lin](https://github.com/chelseylin)
 - [Tae Jun Yun](https://github.com/yuntsj)
 
-###Description of project
+##Description of project
 
-###How to install the code locally
+###Model Schema
+![](ccct_schema.png)
 
-###How to use the app
+##How to install the code locally
+
+##How to use the app
